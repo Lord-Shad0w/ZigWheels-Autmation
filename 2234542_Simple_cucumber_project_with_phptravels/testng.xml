@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  <class name="allTest.CucumberRunner.java"/>
+  <class name="allTest.CucumberRunner"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
